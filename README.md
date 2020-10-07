@@ -1,16 +1,8 @@
-# my_app
+# MedHelp
+We are inspired by the ambulance tracking system that is mentioned on this website: link. Instead of having only hospitals to use this service, we thought that giving people the chance to call an ambulance on this app just like Uber will help save a lot of time for transportation to emergency rooms. Hence, we use Google API, Flutter, and Google Firebase to build a Uber-like app to decrease the time for the ambulance to arrive and improve the overall medical care system.
 
-A new Flutter project.
+We are targeting two categories of the audience: the ambulance driver and the normal user. With this app, users can contact the ambulance drivers directly and not the hospital or the police, which saves time for notifying the ambulance driver. Sign in is done using email id and password. (anonymous) identifier means that the user has logged on as a guest. Meanwhile, ambulance drivers can also have a clear knowledge of the user's location with the google map on their phone. During our research, we found out that there are a wide variety of ambulances that provide different kinds of services so we included a service selection page for people to pick the best ambulance that suits their need. In addition, we also add a section to accommodate the COVID-19 situation to notify the driver whether the user needs special care of COVID-19 and remind them to wear a facial cover.
 
-## Getting Started
+During the process of hacking, we all challenge ourselves and try to collaborate as efficiently as possible. There is only 1 person in our team that has experience in app development. Therefore, we all have to step out of our comfort zone to learn new technical skills such as UI design and Backend Integration. Also, our team is an international gathering with people from different places of the world and different backgrounds. That said, we need to manage our tasks well so that people can work and cooperate in different time zone. Nevertheless, we all developed new skills and finish this product at the end. Teamwork is the best way to overcome any barriers!
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
